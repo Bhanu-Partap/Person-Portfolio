@@ -1,0 +1,9 @@
+POST http://localhost:3000/send
+Content-Type: application/json
+
+{
+        "name":"Ayush",
+        "email":"admin@admin.com",
+        "project": "hello",
+        "message": "hiii theree"
+}
